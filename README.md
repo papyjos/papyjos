@@ -1,7 +1,7 @@
 Olá! Eu sou o Matheus
 
 - 🔭 Atualmente estou procurando a primeira oportunidade na area de dev.
-- 🌱 Estou estudando Python, dando um foco para trabalhar com a area de dados
+- 🌱 Estou estudando Python, dando um foco para trabalhar com a area de dados.
 <div align="center">
   <a href="https://github.com/papyjos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=papyjos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
