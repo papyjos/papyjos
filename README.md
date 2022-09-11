@@ -1,4 +1,4 @@
-Olá! Eu sou o Matheus
+Olá! Eu sou o Matheus!!
 
 - 🔭 Atualmente estou procurando a primeira oportunidade na area de dev.
 - 🌱 Estou estudando Python, Dart e Flutter.
